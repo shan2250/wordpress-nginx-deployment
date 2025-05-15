@@ -80,5 +80,5 @@ MIT License
 
 ## 🛠️ Author
 
-- [Your Name or GitHub Handle](https://github.com/shan2250)
+- [Shahrukh Sayyad(https://github.com/shan2250)
 
